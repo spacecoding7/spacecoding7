@@ -1,39 +1,138 @@
-<h1 align="center">Hi 👋, I'm Jatin kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Jatin Kumar</h1> <h3 align="center"> Frontend Developer • React.js • WordPress • MERN Stack </h3> <p align="center"> <a href="https://github.com/spacecoding7"> <img src="https://komarev.com/ghpvc/?username=spacecoding7&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> </a> </p> <p align="center"> <a href="https://github.com/spacecoding7"> <img src="https://img.shields.io/github/followers/spacecoding7?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers" /> </a> <img src="https://img.shields.io/badge/Focus-Frontend%20Development-blue?style=for-the-badge" alt="Frontend Development" /> </p>
+👨‍💻 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spacecoding7&label=Profile%20views&color=0e75b6&style=flat" alt="spacecoding7" /> </p>
+I'm a passionate Frontend Web Developer from India who enjoys creating responsive, interactive, and user-friendly web experiences.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spacecoding7" alt="spacecoding7" /></a> </p>
+I have hands-on experience with React.js, JavaScript, WordPress, PHP, HTML5, CSS3, Tailwind CSS, GSAP, and Framer Motion.
 
-- 🔭 I’m currently working on [Agriculture Products](www.santoshagriculture.com)
+Currently, I'm expanding my skills in Full-Stack Development with the MERN Stack, while also learning GitHub and Docker.
 
-- 🌱 I’m currently learning **MERN Stack, GitHub, and Docker.**
+const jatin = {
+    role: "Frontend Developer",
+    location: "India",
+    currentFocus: ["MERN Stack", "GitHub", "Docker"],
+    interests: [
+        "Frontend Development",
+        "E-commerce Websites",
+        "Social Media Applications",
+        "Interactive UI"
+    ],
+    funFact: "I solve bugs until I become one myself 😂"
+};
 
-- I completed my client projuct [Clothes website](www.texovibe-private-limited.in)
+🚀 What I'm Currently Working On
 
-- 🤝 I’m looking for help with **Full-stack development, especially building e-commerce websites and social media applications.**
+🌱 Learning and building projects with the MERN Stack
 
-- 👨‍💻 All of my projects are available at [{"fallbackMarkdown":"My GitHub Portfolio","reference":{"matched_text":"","prefix":null,"start_idx":630,"end_idx":703,"safe_urls":[],"refs":[],"alt":"My GitHub Portfolio","prompt_text":"My GitHub Portfolio","type":"url","title":"My GitHub Portfolio","item":{"title":"My GitHub Portfolio","url":"https://github.com/spacecoding7/jatin-portfolio?utm_source=chatgpt.com","attribution":"github.com","pub_date":null,"snippet":null,"attribution_segments":null,"supporting_websites":null,"refs":[],"hue":null,"attributions":null},"layout":null,"logo":null},"showLoginRequiredCard":false}]({"fallbackMarkdown":"My GitHub Portfolio","reference":{"matched_text":"","prefix":null,"start_idx":630,"end_idx":703,"safe_urls":[],"refs":[],"alt":"My GitHub Portfolio","prompt_text":"My GitHub Portfolio","type":"url","title":"My GitHub Portfolio","item":{"title":"My GitHub Portfolio","url":"https://github.com/spacecoding7/jatin-portfolio?utm_source=chatgpt.com","attribution":"github.com","pub_date":null,"snippet":null,"attribution_segments":null,"supporting_websites":null,"refs":[],"hue":null,"attributions":null},"layout":null,"logo":null},"showLoginRequiredCard":false})
+🔭 Working on Agriculture Products Website
 
-- 📝 I regularly write articles on [I don't currently write articles.](I don't currently write articles.)
+🤝 Looking to build more Full-Stack projects, especially:
 
-- 💬 Ask me about **React.js frontend development, WordPress, GSAP, and responsive web design.**
+🛒 E-commerce applications
 
-- 📫 How to reach me **{"fallbackMarkdown":"LinkedIn","reference":{"matched_text":"","prefix":null,"start_idx":521,"end_idx":586,"safe_urls":[],"refs":[],"alt":"LinkedIn","prompt_text":"LinkedIn","type":"url","title":"LinkedIn","item":{"title":"LinkedIn","url":"https://www.linkedin.com/in/jatin-kumar-621616330/?utm_source=chatgpt.com","attribution":"linkedin.com","pub_date":null,"snippet":null,"attribution_segments":null,"supporting_websites":null,"refs":[],"hue":null,"attributions":null},"layout":null,"logo":null},"showLoginRequiredCard":false}**
+💬 Social media applications
 
-- 📄 Know about my experiences [My resume is currently available offline.](My resume is currently available offline.)
+⚡ Interactive React applications
 
-- ⚡ Fun fact **I solve bugs until I become one myself. 😂**
+🎨 Modern animated websites
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+💼 Client Projects
+🌾 Agriculture Products
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+🔗 Website:
+https://www.santoshagriculture.com
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spacecoding7&show_icons=true&locale=en&layout=compact" alt="spacecoding7" /></p>
+Currently working on an agriculture products website focused on creating a responsive and user-friendly experience.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spacecoding7&show_icons=true&locale=en" alt="spacecoding7" /></p>
+👕 Clothes Website
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spacecoding7&" alt="spacecoding7" /></p>
+🔗 Website:
+https://www.texovibe-private-limited.in
+
+Completed a client project for a clothing business with a responsive and modern frontend experience.
+
+🌐 Featured Projects
+🧵 Dulali Handicraft
+
+🔗 https://dulalihandicraft.com
+
+A responsive handicraft business website featuring:
+
+Product showcase
+
+Inquiry forms
+
+Mobile-optimized UI
+
+SEO-friendly structure
+
+Performance optimization
+
+Tech: HTML5 • CSS3 • JavaScript • WordPress
+
+🏢 Gatiman Traders
+
+🔗 https://gatimantraders.co.in
+
+A responsive business website featuring:
+
+Product catalog
+
+About & Contact pages
+
+Customer testimonials
+
+FAQ section
+
+Mobile-friendly UI
+
+Tech: WordPress • Elementor • HTML • CSS
+
+💻 Personal Portfolio
+
+🔗 https://github.com/spacecoding7/jatin-portfolio
+
+A modern developer portfolio built to showcase my projects and frontend development skills.
+
+Tech: React.js • Tailwind CSS • GSAP • Framer Motion
+
+🛠️ Tech Stack
+💻 Languages
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,php" /> </p>
+⚛️ Frontend
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" /> </p>
+🧩 Backend & CMS
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,wordpress" /> </p>
+🗄️ Databases
+<p align="left"> <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> </p>
+🎨 Animation & UI
+<p align="left"> <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" /> <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" /> </p>
+🔧 Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" /> </p>
+💬 Ask Me About
+
+⚛️ React.js Frontend Development
+
+🎨 Responsive Web Design
+
+🌐 WordPress Development
+
+✨ GSAP Animations
+
+🧩 HTML5 & CSS3
+
+📱 Cross-Browser & Responsive UI
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=spacecoding7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacecoding7&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=spacecoding7&theme=tokyonight&hide_border=true&border_radius=10" /> </p>
+🤝 Let's Connect
+<p align="center"> <a href="https://www.linkedin.com/in/jatin-kumar-621616330/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /> </a> <a href="https://github.com/spacecoding7"> <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" /> </a> </p>
+📝 Articles
+
+I don't currently write articles, but I'm planning to share my learning and development journey in the future.
+
+📄 Resume
+
+My resume is currently available offline.
+
+<h3 align="center"> ⚡ Fun Fact </h3> <p align="center"> I solve bugs until I become one myself. 😂 </p> <p align="center"> ⭐ Thanks for visiting my profile! ⭐ </p>
